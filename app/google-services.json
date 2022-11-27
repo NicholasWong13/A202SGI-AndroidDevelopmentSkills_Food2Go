@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242929806217",
+    "project_id": "food-2-go-ea71d",
+    "storage_bucket": "food-2-go-ea71d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242929806217:android:93d00b110bae0e4a61cf58",
+        "android_client_info": {
+          "package_name": "com.example.food2go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242929806217-g7h122vg9k5j7jh3tpo2v1ui4me3fpj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsYav2p-TSp5YNFYJ6qFUHhS7ZDx2-y8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242929806217-g7h122vg9k5j7jh3tpo2v1ui4me3fpj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
